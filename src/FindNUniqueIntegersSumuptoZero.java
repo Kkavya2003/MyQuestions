@@ -4,7 +4,7 @@ Given an integer n, return any array containing n unique integers such that they
 
 /*Solution*/
 
-/*
+
 class Solution {
     public int[] sumZero(int n) {
         int [] ar =new int [n];
@@ -17,4 +17,3 @@ class Solution {
     return ar;
     }
 }
- */

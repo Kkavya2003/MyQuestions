@@ -5,7 +5,6 @@ An integer x is a common factor of a and b if x divides both a and b.
 
 /*solution*/
 
-/*
 class Solution {
     public int commonFactors(int a, int b){
     int comfac = 0;
@@ -24,4 +23,4 @@ class Solution {
     return comfac++;
     }
 }
- */
+ 

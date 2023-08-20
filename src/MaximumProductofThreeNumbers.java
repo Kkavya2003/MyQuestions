@@ -4,7 +4,7 @@ Given an integer array nums, find three numbers whose product is maximum and ret
 
 /*Solution*/
 
-/*
+
 class Solution {
     public int maximumProduct(int[] nums) {
         int len = nums.length;
@@ -14,4 +14,3 @@ class Solution {
     return Math.max(product1,product2);
     }
 }
- */

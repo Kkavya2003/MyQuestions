@@ -5,7 +5,6 @@ A defanged IP address replaces every period "." with "[.]".
 
 /*Solution*/
 
-/*
 class Solution {
     public String defangIPaddr(String address) {
         String str="";
@@ -13,4 +12,4 @@ class Solution {
     return str;
     }
 }
- */
+ 

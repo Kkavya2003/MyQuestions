@@ -7,7 +7,6 @@ Given the integer n, return the number of complete rows of the staircase you wil
 
 /*Solution*/
 
-/*
 class Solution {
     public int arrangeCoins(int n) {
     int count = 0;
@@ -25,4 +24,3 @@ class Solution {
     return count;
     }
 }
- */

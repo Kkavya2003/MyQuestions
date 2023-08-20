@@ -7,7 +7,7 @@ i and i + 1 for all (0 <= i < n). Return the highest altitude of a point.
 
 /*Solution*/
 
-/*
+
 class Solution {
     public int largestAltitude(int[] gain) {
         int n = gain.length;
@@ -25,4 +25,3 @@ class Solution {
         return max;
     }
 }
- */

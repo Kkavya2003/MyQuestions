@@ -7,7 +7,6 @@ Return the array ans.
 
 /*Solution*/
 
-/*
 class Solution {
     public int[] getConcatenation(int[] nums) {
         int size=nums.length;
@@ -19,4 +18,3 @@ class Solution {
         return ans;
     }
 }
- */

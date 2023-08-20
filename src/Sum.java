@@ -3,7 +3,6 @@ Given an array of positive integers arr, return the sum of all possible odd-leng
 A subarray is a contiguous subsequence of the array.
  */
 /*Solution*/
-/*
 class Solution {
     public int sumOddLengthSubarrays(int[] arr) {
         int sum = 0;
@@ -18,5 +17,3 @@ class Solution {
     return sum;
 }
 }
-
- */

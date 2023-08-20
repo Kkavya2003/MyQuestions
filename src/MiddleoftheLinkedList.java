@@ -15,7 +15,7 @@ If there are two middle nodes, return the second middle node.
  * }
  */
 
-/*
+
 class Solution {
     public ListNode middleNode(ListNode head) {
     ListNode num1 = head;
@@ -27,4 +27,3 @@ class Solution {
     return num1;
     }
 }
- */

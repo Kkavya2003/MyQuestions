@@ -9,7 +9,6 @@
  *     ListNode(int val, ListNode next) { this.val = val; this.next = next; }
  * }
  */
-/*
 public class RevLinkList {
     public static void main(String[] args) {
         public ListNode reverseList(ListNode head) {
@@ -26,5 +25,3 @@ public class RevLinkList {
 
     }
 }
-
- */

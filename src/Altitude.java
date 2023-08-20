@@ -4,7 +4,8 @@ You are given an integer array gain of length n where gain[i] is the net gain in
 between points i and i + 1 for all (0 <= i < n). Return the highest altitude of a point.
  */
 /* solution*/
-/* class Solution {
+
+class Solution {
     public int largestAltitude(int[] gain) {
         int n = gain.length;
         int [] alt = new int [n+1];
@@ -21,6 +22,6 @@ between points i and i + 1 for all (0 <= i < n). Return the highest altitude of 
         return max;
     }
 }
- */
+
 
 

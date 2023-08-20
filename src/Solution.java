@@ -4,8 +4,7 @@ stones that are jewels, and stones representing the stones
  You want to know how many of the stones you have are also jewels.
 Letters are case sensitive, so "a" is considered a different type of stone from "A".
 */
-
-/*
+/*Solution*/
 public class Solution {
     public int numJewelsInStones(String jewels, String stones){
         int sol=0;
@@ -21,4 +20,3 @@ public class Solution {
         return sol;
     }
 }
-*/

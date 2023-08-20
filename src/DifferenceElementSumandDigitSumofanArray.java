@@ -8,7 +8,7 @@ Note that the absolute difference between two integers x and y is defined as |x 
 
 /*Solution*/
 
-/*
+
 class Solution {
     public int differenceOfSum(int[] nums) {
         int n= nums.length;
@@ -24,4 +24,3 @@ class Solution {
     return (elsum-dsum);
     }
 }
- */

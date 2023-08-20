@@ -5,7 +5,7 @@ Given n, return the value of Tn.
 
 /*Solution:*/
 
-/*
+
 class Solution {
     public int tribonacci(int n) {
         int t0 = 0;
@@ -27,5 +27,5 @@ class Solution {
     return sum;
     }
 }
- */
+
 

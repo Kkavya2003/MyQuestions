@@ -7,7 +7,7 @@ Note that the time in this problem is in 24-hours format.
 
 /*Solution*/
 
-/*
+
 class Solution {
     public int findDelayedArrivalTime(int arrivalTime, int delayedTime) {
         int sum = 0 ;
@@ -15,4 +15,3 @@ class Solution {
     return (sum%24);
     }
 }
- */

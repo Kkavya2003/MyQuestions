@@ -5,7 +5,7 @@ return the only number in the range that is missing from the array.
 
 /*Solution*/
 
-/*
+
 class Solution {
     public int missingNumber(int[] nums) {
         int n = nums.length;
@@ -21,4 +21,4 @@ class Solution {
     return 0;
     }
 }
- */
+ 

@@ -7,7 +7,6 @@ Return the sum of all digits with their corresponding sign.
 
 /*Solution*/
 
-/*
 class Solution {
     public int alternateDigitSum(int n){
         int sum = 0;
@@ -36,4 +35,3 @@ class Solution {
     return sum;
     }
 }
- */

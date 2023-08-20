@@ -5,7 +5,6 @@ Return the maximum value of (nums[i]-1)*(nums[j]-1).
 
 /*Solution*/
 
-/*
 class Solution {
     public int maxProduct(int[] nums) {
         int len = nums.length;
@@ -13,4 +12,3 @@ class Solution {
     return ((nums[len-1]-1)*(nums[len-2]-1));
     }
 }
- */

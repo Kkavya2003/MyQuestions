@@ -15,7 +15,7 @@
  *     ListNode(int val, ListNode next) { this.val = val; this.next = next; }
  * }
  */
-/*
+
 class Solution {
     public boolean isPalindrome(ListNode head) {
         int num = 0;
@@ -31,4 +31,3 @@ class Solution {
         return num == rev;
     }
 }
- */

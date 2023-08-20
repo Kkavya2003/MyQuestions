@@ -4,7 +4,6 @@ some integer with itself.
 You must not use any built-in library function, such as sqrt.
  */
 /*solution*/
-/*
 class Solution {
     public boolean isPerfectSquare(int num) {
         if(num<2){
@@ -27,4 +26,3 @@ class Solution {
     return false;
     }
 }
- */

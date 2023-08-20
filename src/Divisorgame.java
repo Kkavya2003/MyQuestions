@@ -9,7 +9,7 @@ Return true if and only if Alice wins the game, assuming both players play optim
 
 /*Solution*/
 
-/*
+
 class Solution {
     public boolean divisorGame(int n){
         if (n==1){
@@ -26,4 +26,3 @@ class Solution {
     return false;
     }
 }
- */

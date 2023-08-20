@@ -4,10 +4,7 @@ A perfect square is an integer that is the square of an integer. In other words,
 it is the product of some integer with itself.
 You must not use any built-in library function, such as sqrt.
  */
-
 /*Solution*/
-
-/*
 class Solution {
     public boolean isPerfectSquare(int num) {
         if(num<2){
@@ -30,4 +27,3 @@ class Solution {
     return false;
     }
 }
- */

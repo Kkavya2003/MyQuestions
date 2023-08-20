@@ -5,10 +5,7 @@ where x is an integer from the range [-k, k]. You can apply this operation at mo
 The score of nums is the difference between the maximum and minimum elements in nums.
 Return the minimum score of nums after applying the mentioned operation at most once for each index in it.
  */
-
 /*Solution*/
-
-/*
 class Solution {
     public int smallestRangeI(int[] nums, int k) {
         int len = nums.length;
@@ -22,4 +19,3 @@ class Solution {
     return (score>0) ? score: 0;
     }
 }
- */

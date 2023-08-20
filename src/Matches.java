@@ -9,7 +9,7 @@ Return the number of matches played in the tournament until a winner is decided.
  */
 
 /*Solution*/
-/*
+
 class Solution {
     public int numberOfMatches(int n) {
         int num=0;
@@ -27,4 +27,3 @@ class Solution {
     return sum;
     }
 }
- */

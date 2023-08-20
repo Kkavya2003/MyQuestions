@@ -7,7 +7,7 @@ answer[i] == i (as a string) if none of the above conditions are true.
 
  */
 /* Solution */
-/*
+
 class Solution {
     public List<String> fizzBuzz(int n) {
         List<String> sol = new ArrayList<>();
@@ -28,4 +28,3 @@ class Solution {
     return sol;
     }
 }
- */

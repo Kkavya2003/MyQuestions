@@ -4,7 +4,7 @@ Given an array nums of integers, return how many of them contain an even number 
 
 /*Solution*/
 
-/*
+
 class Solution {
     public int findNumbers(int[] nums) {
         int count = 0;
@@ -21,4 +21,3 @@ class Solution {
     return count;
     }
 }
- */

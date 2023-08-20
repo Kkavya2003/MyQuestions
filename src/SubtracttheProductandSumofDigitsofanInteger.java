@@ -1,10 +1,7 @@
 /*Question:
 Given an integer number n, return the difference between the product of its digits and the sum of its digits.
  */
-
 /*Solution*/
-
-/*
 class Solution {
     public int subtractProductAndSum(int n) {
         int sum=0;
@@ -18,4 +15,3 @@ class Solution {
     return (prd-sum);
     }
 }
- */

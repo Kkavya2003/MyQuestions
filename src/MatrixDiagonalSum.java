@@ -6,7 +6,6 @@ all the elements on the secondary diagonal that are not part of the primary diag
 
 /*Solution*/
 
-/*
 class Solution {
     public int diagonalSum(int[][] mat) {
         int n = mat.length;
@@ -20,4 +19,3 @@ class Solution {
     return sum;
     }
 }
- */

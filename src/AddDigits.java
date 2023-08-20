@@ -2,7 +2,7 @@
 the resulthas only one digit, and return it.
  */
 /*Solution:*/
-/* class Solution {
+ class Solution {
     public int addDigits(int num) {
     int sum= 0;
         while(num>0){
@@ -18,5 +18,4 @@ the resulthas only one digit, and return it.
         }
     }
 }
- */
 

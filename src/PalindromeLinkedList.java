@@ -14,7 +14,7 @@ Given the head of a singly linked list, return true if it is a palindrome or fal
  * }
  */
 
-/*
+
 class Solution {
     public boolean isPalindrome(ListNode head) {
         int num = 0;
@@ -30,4 +30,3 @@ class Solution {
      return num == rev;
     }
 }
- */

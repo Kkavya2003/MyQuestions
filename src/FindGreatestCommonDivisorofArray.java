@@ -5,7 +5,6 @@ The greatest common divisor of two numbers is the largest positive integer that 
 
 /*Solution*/
 
-/*
 class Solution {
     public int findGCD(int[] nums) {
         int n = nums.length;
@@ -28,4 +27,3 @@ class Solution {
     return gcd;
     }
 }
- */

@@ -5,7 +5,7 @@ An integer n is a power of three, if there exists an integer x such that n == 3x
 
 /*Solution*/
 
-/*
+
 class Solution {
     public boolean isPowerOfThree(int n) {
         if(n == 1){
@@ -16,4 +16,4 @@ class Solution {
         }
     return isPowerOfThree(n/3);
     }
-} */
+} 

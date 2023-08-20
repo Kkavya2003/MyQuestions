@@ -6,10 +6,7 @@ There is a function signFunc(x) that returns:
 You are given an integer array nums. Let product be the product of all values in the array nums.
 Return signFunc(product).
  */
-
 /*Solution*/
-
-/*
 class Solution {
     public int arraySign(int[] nums){
         int negative = 0;
@@ -30,4 +27,3 @@ class Solution {
             }
     }
 }
- */

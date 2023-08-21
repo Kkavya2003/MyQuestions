@@ -3,7 +3,7 @@ Given a string s, return the string after
 replacing every uppercase letter with the same lowercase letter.
  */
 /*Solution*/
-class Solution {
+class ToLowerCase{
     public String toLowerCase(String s) {
         String str="";
         str = s.toLowerCase();

@@ -6,7 +6,7 @@ Given a string sentence containing only lowercase English letters, return true i
 
 /*Solution*/
 
-class Solution {
+class CheckiftheSentenceIsPangram {
     public boolean checkIfPangram(String sentence) {
            for (char i='a';i<='z';i++) {
 			    if (sentence.indexOf(i) == -1) {

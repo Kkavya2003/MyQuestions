@@ -5,7 +5,7 @@ A zero-based permutation nums is an array of distinct integers from 0 to nums.le
  */
 /*solution*/
 
-class Solution {
+class ArrayPer{
     public int[] buildArray(int[] nums) {
         int n = nums.length;
         int[]ans = new int[n];

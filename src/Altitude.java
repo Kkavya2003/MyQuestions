@@ -5,7 +5,7 @@ between points i and i + 1 for all (0 <= i < n). Return the highest altitude of 
  */
 /* solution*/
 
-class Solution {
+class Altitude{
     public int largestAltitude(int[] gain) {
         int n = gain.length;
         int [] alt = new int [n+1];

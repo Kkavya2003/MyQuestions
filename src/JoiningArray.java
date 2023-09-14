@@ -7,7 +7,7 @@ Return the array ans.
 
 /*Solution*/
 
-class Solution {
+class JoiningArray {
     public int[] getConcatenation(int[] nums) {
         int size=nums.length;
         int []ans =new int[2*size];

@@ -7,7 +7,7 @@ A string is represented by an array if the array elements concatenated in order 
 /*Solution*/
 
 
-class Solution {
+class CheckIfTwoStringArraysareEquivalent {
     public boolean arrayStringsAreEqual(String[] word1, String[] word2) {
         int n=word1.length;
         int m=word2.length;

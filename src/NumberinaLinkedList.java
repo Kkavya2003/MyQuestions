@@ -17,8 +17,8 @@ The most significant bit is at the head of the linked list.
  *     ListNode(int val, ListNode next) { this.val = val; this.next = next; }
  * }
  */
-
-class Solution {
+/*
+class NumberinaLinkedList{
     public int getDecimalValue(ListNode head) {
     int sum=0;
         while(head!=null){
@@ -29,4 +29,6 @@ class Solution {
     return sum;
     }
 }
- 
+
+
+ */

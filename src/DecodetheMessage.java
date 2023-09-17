@@ -9,7 +9,7 @@ For example, given key = "happy boy" (actual key would have at least one instanc
 have the partial substitution table of ('h' -> 'a', 'a' -> 'b', 'p' -> 'c', 'y' -> 'd', 'b' -> 'e', 'o' -> 'f').
  */
 //Solution
-public class DecodetheMessage {
+/*public class DecodetheMessage {
     public String decodeMessage(String key, String message) {
         int len = key.length();
         len = message.length();
@@ -33,3 +33,6 @@ public class DecodetheMessage {
         return str;
     }
 }
+
+
+ */
